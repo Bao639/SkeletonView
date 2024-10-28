@@ -1,56 +1,38 @@
 ---
-name: "\U0001F41B Bug report"
-about: Report a bug or unexpected behavior while using SkeletonView
+name: Bug report
+about: Create a report to help us improve
 title: ''
-labels: bug
+labels: ''
 assignees: ''
 
 ---
 
-### Description
+**Describe the bug**
+A clear and concise description of what the bug is.
 
-Describe your issue here.
+**To Reproduce**
+Steps to reproduce the behavior:
+1. Go to '...'
+2. Click on '....'
+3. Scroll down to '....'
+4. See error
 
-### What type of issue is this? (place an `x` in one of the `[ ]`)
-- [ ] bug
-- [ ] enhancement (feature request)
-- [ ] question
-- [ ] documentation related
-- [ ] discussion
+**Expected behavior**
+A clear and concise description of what you expected to happen.
 
-### Requirements (place an `x` in each of the `[ ]`)
-* [ ] I've read and understood the [Contributing guidelines](https://github.com/Juanpe/SkeletonView/blob/main/CONTRIBUTING.md) and have done my best effort to follow them.
-* [ ] I've read and agree to the [Code of Conduct](https://github.com/Juanpe/SkeletonView/blob/main/CODE_OF_CONDUCT.md).
-* [ ] I've searched for any related issues and avoided creating a duplicate issue.
+**Screenshots**
+If applicable, add screenshots to help explain your problem.
 
----
+**Desktop (please complete the following information):**
+ - OS: [e.g. iOS]
+ - Browser [e.g. chrome, safari]
+ - Version [e.g. 22]
 
-### Bug Report
+**Smartphone (please complete the following information):**
+ - Device: [e.g. iPhone6]
+ - OS: [e.g. iOS8.1]
+ - Browser [e.g. stock browser, safari]
+ - Version [e.g. 22]
 
-Filling out the following details about bugs will help us solve your issue sooner.
-
-### SkeletonView Environment:
-
-**SkeletonView version:**
-**Xcode version:**
-**Swift version:**
-
-#### Steps to reproduce:
-
-*Please replace this with the steps to reproduce the behavior.*
-
-1.
-2.
-3.
-
-#### Expected result:
-
-*Please replace this with what you expected to happen.*
-
-#### Actual result:
-
-*Please replace this with of what happened instead.*  
-
-#### Attachments:
-
-Logs, screenshots, sample project, funny gif, etc.
+**Additional context**
+Add any other context about the problem here.
